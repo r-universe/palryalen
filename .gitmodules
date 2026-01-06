@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ahw"]
-	path = ahw
-	url = https://github.com/cran/ahw
 [submodule "transform.hazards"]
 	path = transform.hazards
 	url = https://github.com/palryalen/transform.hazards
